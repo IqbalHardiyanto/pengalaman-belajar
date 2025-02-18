@@ -1,7 +1,7 @@
 # Pengalaman Belajar di Dicoding
 Android
 --
-13 September 2019
+**13 September 2019**<br>
 - Pengenalan Android Studio <br>Penjelasan tentang bagaimana menginstal Android Studio dan pengenalan dengan komponen-komponen yang sering dipakai di dalamnya.
 - Activity <br>Mulai dari membuat desain dan menuliskan logika dasarnya, sampai penggunaan saveInstanceState untuk menjaga data karena perubahan lifecycle.
 - Intent <br>Mendalami macam-macam Intent untuk berpindah antar Activity maupun aplikasi, seperti implicit intent dan explicit intent.
